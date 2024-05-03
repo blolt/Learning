@@ -24,6 +24,9 @@ TODO
 |https://www.fast.ai/|In progress|||
 |[Khan Academy](https://www.khanacademy.org)|✓|I find myself returning to Khan Acadamy when I am doubting myself, having forgotten a relatively basic trick that I see come up in a later text. In my experience, it is not sufficient for learning a subject in depth, but it can provide quick review and practice for jogging your memory on how to perform certain calculations. I will also forever find comfort in Sal Kahn's voice.|N/A|
 
+## Videos
+TODO
+
 ## Blogposts
 TODO
 
