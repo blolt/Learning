@@ -1,6 +1,8 @@
 # Learning
 
-This repo is a non-exhaustive annotated bibliography of resources I have used for learning. Materials primarily cover mathematics, computer science, statistics, and machine learning. I am particularly interested in understanding how to build autonomous, inferential agents, so most of my learning is somehow directed towards or tangential to that subject. Sections are roughly chronologically ordered, but many of these resources were consumed in parallel. Where resources can be purchased, links are provided, though these links are not necessarily the "best" way to acquire many of these items. When a material is marked with a checkmark ("✓"), that means it has been completed at least once. However, many of these resources, especially the textbooks, are best utilized as a recurring source of review and learning.
+This repo is a non-exhaustive annotated bibliography of resources I have used for learning. Materials primarily cover mathematics, computer science, statistics, and machine learning. I am particularly interested in understanding how to build autonomous, inferential agents, so most of the contents is somehow directed towards or tangential to that subject. I am also interested in urban planning and try to read a relatively broad swath of subjects, so I may eventually include sections for these and other subjects. Sections are roughly chronologically ordered, but many of these resources were consumed in parallel.
+
+Where resources can be purchased, links are provided, though these links are not necessarily the "best" way to acquire many of these items. When a material is marked with a checkmark ("✓"), that means it has been completed at least once. However, many of these resources, especially the textbooks, are best utilized as a recurring source of review and learning.
 
 ## Textbooks
 
