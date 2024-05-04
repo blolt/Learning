@@ -6,7 +6,7 @@ Where resources can be purchased, links are provided, though these links are not
 
 ## Textbooks
 
-|Title|Author(s)|Completion Status|Notes|Pre-reqs|
+|Title|Author(s)|Completion Status|Review|Pre-reqs|
 |---|---|---|---|---|
 |[Trig without Tears or, How to Remember Trigonometric Identities](https://brownmath.com/twt/index.htm)|Brown|In progress|This book is about 75 pages and can be mastered within a week. Other recommendations, which I may eventually include in this list, are Dover's Trigonometry Refresher for Programmed Instruction, Schaum's Plane and Spherical Trigonometry for practice and drills, and Van Brummelen's Heavenly mathematics for spherical trigonometry and history of the subject. For those that have lost or never built an intuitive understanding of trigonometry, or simply wish to better understand its deep beauty, I highly recommend (one of) these texts. |High school algebra|
 |Trigonometric Delights|Eli Maor|Not started|I have read that anything written by Eli Maor is worth reading.|...|
