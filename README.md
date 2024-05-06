@@ -23,7 +23,7 @@ Where resources can be purchased or viewed for free, links are provided, though 
 |[Real Analysis: Modern  Techniques and their Applications](https://www.amazon.com/Real-Analysis-Long-Form-Mathematics-Textbook/dp/1077254547/ref=sr_1_31_sspa?crid=SO759J0Y5Z3H&dib=eyJ2IjoiMSJ9.8H96S-vpjIYx8lnvl5zYmJTzkEIinApCsJ9wsZQvKVDkb30vjQ_sJUN3uoo0TR2fGlx7X0eN9gNE7R6xjPd_X1obxDXlNq9xn3YOt-zfksQ3e2n8OtjmGVqh-uXhX5oWND0gWvnZfaXQTNAuOUYNyaoxXv_PRXvZQfFJaRItypNI21cFF-576dnPEgFHZbBQB9Vp3vnxBiQYpdTnAZHVo8yn8HiGQVjFKJPnv8AsxG93KEJ_MNA14SGwnZFzhHHawjHAhvzmd60uFt5IpUACKMU6qupI3nNwMeU3VkrDZzA.Ta8UR25ufichJlJxKqk5HUhkKoUo-kpX57SomXnPapw&dib_tag=se&keywords=Analysis&qid=1715022505&s=books&sprefix=analysis%2Cstripbooks%2C118&sr=1-31-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1)|Folland|Not started|This came highly recommended from someone in the Active Inference Institute's discord.||
 
 ## Papers
-Papers progress columns are filled out according to the [three pass approach](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf). A checkmark indicates all three passes have been complete.
+The progress column for this section is filled out according to the [three pass approach](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) for reading academic papers. A checkmark indicates all three passes have been complete.
 
 |Title|Author(s)|Completion Status|Review|Pre-reqs|
 |---|---|---|---|---|
