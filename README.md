@@ -57,9 +57,13 @@ The progress column for this section is filled out according to the [three pass 
 |[University of Tubingen - Probablistic ML](https://youtu.be/TTo2kjrAuTo?si=CWq132yI_BV3RtiD)|On lecture 4|The perfect graduate-level lecture series for probablistic ML for my level of understanding. For those that have not taken a theoretical probability course that emphasises a Bayesian perspective, I highly recommend this one. It is a blast.|Calculus, linear algebra, prior exposure to probability assumed.|
 |[Stanford CS236: Deep Generative Models 2023](https://www.youtube.com/watch?v=XZ0PMRWXBEU)|On Lecture 2|Covers Auto-Regressive Models, Variational Auto-Encoders, Normalizing Flow Models, and Generative Adversarial Networks. Really helpful for understanding where conretizing some parts of Active Inference.|Introductory knowledge of machine learning and probability|
 |[Khan Academy](https://www.khanacademy.org)|✓|I find myself returning to Khan Acadamy when I am doubting myself, having forgotten a relatively basic trick that I see come up in a later text. In my experience, it is not sufficient for learning a subject in depth, but it can provide quick review and practice for jogging your memory on how to perform certain calculations. The duolingo of mathematics, perhaps. I will also forever find comfort in Sal Kahn's voice.|N/A|
+|[Classical Control Theory](https://www.youtube.com/watch?v=O-OqgFE9SD4&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&=2)|Brian Douglas|On Lecture 2|I know little of control theory, but this seems like a good introduction. I will likely pair it with a study of differential equations, and possibly then follow up with more formal explorations of control theory after that.|Calc I|
+
+## Tutorials
+TODO: add in Active Inference tutorials I have been working through.
 
 ## Videos
-TODO: 
+TODO
 
 ## Blogposts
 TODO
