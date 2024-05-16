@@ -55,7 +55,7 @@ The progress column for this section is filled out according to the [three pass 
 |[Coursera] [University of Pennsylvania, Calculus: Single Variable](https://www.coursera.org/learn/single-variable-calculus)|In progress|Excellent review of single variable calculus split into four short courses. Recommended for those that are seeking to review Calculus with a fresh perspective before continuing their mathematics education. Pairs well with a textbook or another source of practice problems. |Calculus I & II|
 |https://www.fast.ai/|In progress|A good course, though my progress on it is stalled because my non-work laptop is having issues, and I am wary of downloading some of the files necessary for the course on my work laptop.|Python and intermediate coding ability.|
 |[University of Tubingen - Probablistic ML](https://youtu.be/TTo2kjrAuTo?si=CWq132yI_BV3RtiD)|On lecture 4|The perfect graduate-level lecture series for probablistic ML for my level of understanding. For those that have not taken a theoretical probability course that emphasises a Bayesian perspective, I highly recommend this one. It is a blast.|Calculus, linear algebra, prior exposure to probability assumed.|
-|[Stanford CS236: Deep Generative Models 2023](https://www.youtube.com/watch?v=XZ0PMRWXBEU)|On Lecture 2|Covers Auto-Regressive Models, Variational Auto-Encoders, Normalizing Flow Models, and Generative Adversarial Networks. Really helpful for understanding where conretizing some parts of Active Inference.|Introductory knowledge of machine learning and probability|
+|[Stanford CS236: Deep Generative Models 2023](https://www.youtube.com/watch?v=XZ0PMRWXBEU)|On Lecture 4|Covers Auto-Regressive Models, Variational Auto-Encoders, Normalizing Flow Models, and Generative Adversarial Networks. Really helpful for understanding where conretizing some parts of Active Inference.|Introductory knowledge of machine learning and probability|
 |[Khan Academy](https://www.khanacademy.org)|✓|I find myself returning to Khan Acadamy when I am doubting myself, having forgotten a relatively basic trick that I see come up in a later text. In my experience, it is not sufficient for learning a subject in depth, but it can provide quick review and practice for jogging your memory on how to perform certain calculations. The duolingo of mathematics, perhaps. I will also forever find comfort in Sal Kahn's voice.|N/A|
 |[Classical Control Theory](https://www.youtube.com/watch?v=O-OqgFE9SD4&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&=2)|Brian Douglas|On Lecture 2|I know little of control theory, but this seems like a good introduction. I will likely pair it with a study of differential equations, and possibly then follow up with more formal explorations of control theory after that.|Calc I|
 
@@ -69,7 +69,7 @@ TODO
 TODO
 
 ## Articles
-TODO
+|[Generative and Discriminative Classifiers: Naive Bayes and Logistic Regression](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)||||
 
 ## Communities 
 * [Active Inference Institute](https://www.activeinference.org/) - Join the discord! This is a great community with lots of helpful and incredibly smart members.
