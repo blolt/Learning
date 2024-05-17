@@ -79,7 +79,7 @@ TODO: Flesh this section out. To be honest I am sometimes concerned with the fac
 
 ## Possible Degree Programs
 |University|Level|Program|Prerequisites|Application Deadline|
-|---|---|---|---|
+|---|---|---|---|---|
 |Tubingen University|Masters|[Computational Neuroscience](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-neuroscience-master/#c311-language-requirements)|Profound knowledge in maths (linear algebra, analysis), statistics, elementary probability theory, and programming skills in at least one language are compulsory.|March 1st|
 
 1. Good ol' cartpole and perhaps some other reinforcement learning problems.
