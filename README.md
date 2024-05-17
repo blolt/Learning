@@ -6,7 +6,7 @@ Where resources can be purchased or viewed for free, links are provided, though 
 
 ## Books
 
-|Title|Author(s)|Completion Status|Review|Pre-reqs|
+|Title|Author(s)|Completion Status|Notes|Prerequisites|
 |---|---|---|---|---|
 |[Trig without Tears or, How to Remember Trigonometric Identities](https://brownmath.com/twt/index.htm)|Brown|✓|This book is about 75 pages and can be mastered within a week, giving a broader perspective on trigonometry that makes it far easier to apply throughout the rest of mathematics. |basic algebra|
 |Trigonometric Delights|Eli Maor|Not started|I have read that anything written by Eli Maor is worth reading.|...|
@@ -25,7 +25,7 @@ Where resources can be purchased or viewed for free, links are provided, though 
 ## Papers
 The progress column for this section is filled out according to the [three pass approach](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) for reading academic papers. A checkmark indicates all three passes have been complete.
 
-|Title|Author(s)|Completion Status|Review|Pre-reqs|
+|Title|Author(s)|Completion Status|Notes|Prerequisites|
 |---|---|---|---|---|
 |[The Markov blankets of life: autonomy, active inference and the free energy principle](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792)|Kirchoff, Friston, Whyte|✓|Among other things, this paper answers "the question of whether the Markov blanket formulation of biological systems is over-broad and thereby explanatorily empty with respect to autonomy" by introducing _adaptive active inference_. This addresses some concerns I have had regarding the seeming tautological nature of Active Inference. I regard it as essential reading for anyone looking to understand how Markov Blankets apply to agents within the Active Inference framework. |The first three chapters of Parr's _Active Inference_ book.|
 |[A step-by-step tutorial on active inference and its application to empirical data](https://www.sciencedirect.com/science/article/pii/S0022249621000973)|Smith, Friston, Whyte|In Progress|||
@@ -49,7 +49,7 @@ The progress column for this section is filled out according to the [three pass 
 
 ## Online Coursework
 
-|Course Name|Completion Status|Notes|Pre-reqs|
+|Course Name|Completion Status|Notes|Prerequisites|
 |---|---|---|---|
 |[Andrew Ng's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)|In progress|A straightforward set of videos and short, hand-holding ML projects that pairs well with machine learning textbooks by providing additional perspective, as well as practical coding skills for those unfamiliar with numpy/pandas.|Calculus, Probability, and co-requisite with a more theoretical approach to ML|
 |[University of Pennsylvania, Calculus: Single Variable](https://www.coursera.org/learn/single-variable-calculus)|In progress|Excellent review of single variable calculus split into four short courses. Recommended for those that are seeking to review Calculus with a fresh perspective before continuing their mathematics education. Pairs well with a textbook or another source of practice problems. |Calculus I & II|
@@ -78,9 +78,9 @@ TODO
 TODO: Flesh this section out. To be honest I am sometimes concerned with the fact that anything I might invent is technically owned by Amazon--I believe this stifles innovation. Like the recent [FTC ban on non-competes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes), I would like to see this rule done away with. Some ideas I have, anyways:
 
 ## Possible Degree Programs
-|University|Level|Program|Prerequisites|Application Deadline|
+|University|Level|Program|Application Deadline|Prerequisites|
 |---|---|---|---|---|
-|Tubingen University|Masters|[Computational Neuroscience](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-neuroscience-master/#c311-language-requirements)|Profound knowledge in maths (linear algebra, analysis), statistics, elementary probability theory, and programming skills in at least one language are compulsory.|March 1st|
+|Tubingen University|Masters|[Computational Neuroscience](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-neuroscience-master/#c311-language-requirements)|March 1st|Profound knowledge in maths (linear algebra, analysis), statistics, elementary probability theory, and programming skills in at least one language are compulsory.|
 
 1. Good ol' cartpole and perhaps some other reinforcement learning problems.
 2. Personal smart speaker using Claude 3 with some interesting tools for it to use. This is in progress, though tools need to be thought on more.
