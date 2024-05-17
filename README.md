@@ -77,5 +77,10 @@ TODO
 ## Projects
 TODO: Flesh this section out. To be honest I am sometimes concerned with the fact that anything I might invent is technically owned by Amazon--I believe this stifles innovation. Like the recent [FTC ban on non-competes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes), I would like to see this rule done away with. Some ideas I have, anyways:
 
+## Possible Degree Programs
+|University|Level|Program|Prerequisites|Application Deadline|
+|---|---|---|---|
+|Tubingen University|Masters|[Computational Neuroscience](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-neuroscience-master/#c311-language-requirements)|Profound knowledge in maths (linear algebra, analysis), statistics, elementary probability theory, and programming skills in at least one language are compulsory.|March 1st|
+
 1. Good ol' cartpole and perhaps some other reinforcement learning problems.
 2. Personal smart speaker using Claude 3 with some interesting tools for it to use. This is in progress, though tools need to be thought on more.
