@@ -8,7 +8,7 @@ Where resources can be purchased or viewed for free, links are provided, though 
 
 |Title|Author(s)|Completion Status|Review|Pre-reqs|
 |---|---|---|---|---|
-|[Trig without Tears or, How to Remember Trigonometric Identities](https://brownmath.com/twt/index.htm)|Brown|✓|This book is about 75 pages and can be mastered within a week, giving a broader perspective on trigonometry than most high school curriculums. |basic algebra|
+|[Trig without Tears or, How to Remember Trigonometric Identities](https://brownmath.com/twt/index.htm)|Brown|✓|This book is about 75 pages and can be mastered within a week, giving a broader perspective on trigonometry that makes it far easier to apply throughout the rest of mathematics. |basic algebra|
 |Trigonometric Delights|Eli Maor|Not started|I have read that anything written by Eli Maor is worth reading.|...|
 |[Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/125967651X)|Rosen|✓|This is the first mathematics textbook I properly read. It is engaging and provides an excellent introduction to proofs and a smattering of subjects that will be helpful to budding computer scientists. |High school algebra, novice programming ability|
 |[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)|Sipser|✓|The canonical introduction to computer science theory. I first read this book in my undergraduate theory of computation course, and have found myself returning to it for refreshers since. |Discrete Mathematics, Calculus, some programming helpful|
