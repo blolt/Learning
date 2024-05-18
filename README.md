@@ -46,6 +46,16 @@ The progress column for this section is filled out according to the [three pass 
 |[The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/)|Not started|A nice overview of the Chinese room argument and various rebuttals and critiques.||
 |[Minds, brains, and programs]()|Searle|The original paper that advanced the Chinese room argument, holds that digital computer programs cannot have minds or consciousness.||
 |[Thinking through other minds: A variational approach to cognition and culture](https://pubmed.ncbi.nlm.nih.gov/31142395/)|Not started|A very interesting application of the free energy principal to social science research.||
+|[Bridging gaps in image meme research: A multidisciplinary paradigm for scaling up qualitative analyses](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24900)||||
+|[What’s ‘Inside’ the Prepared Mind? Not Things, but Relations](https://www.researchgate.net/publication/358511959_What's_'Inside'_the_Prepared_Mind_Not_Things_but_Relations)||||
+|[[PENDING TITLE] Introducing the Autonomic Adaptive Learning Engagement System (AALES) as a technological intervention-based framework for adaptive learning](https://zenodo.org/records/11188569)||||
+|[[PENDING TITLE] Habitual and adaptive learning dynamics regarding agential systems](https://zenodo.org/records/11188526)||||
+|[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)||||
+|[The “plant neurobiology” revolution](https://www.tandfonline.com/doi/pdf/10.1080/15592324.2024.2345413)||||
+|[Emergence of integrated institutions in a large population of self-governing communities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216335)||||
+|[From Functional Imaging to Free Energy—Dedicated to Professor Karl Friston on the Occasion of His 65th Birthday](https://www.mdpi.com/journal/entropy/special_issues/free_energy)||||
+|[Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad](https://arxiv.org/abs/2404.16321)||||
+
 
 ## Online Coursework
 
@@ -63,7 +73,9 @@ The progress column for this section is filled out according to the [three pass 
 TODO: add in Active Inference tutorials I have been working through.
 
 ## Videos
-TODO
+|Video Name|Completion Status|Notes|Prerequisites|
+|---|---|---|---|
+|[Eugenio Moggi: "Categories of Classes for Collection Monads"](https://www.youtube.com/watch?v=Jl7FTOaFZgA)||||
 
 ## Blogposts
 TODO
